@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e0a3a324d906354abfaab00473f9fe1, type: 3}
+  m_Name: CombineFactory
+  m_EditorClassIdentifier: 
+  factoryPrefab: {fileID: 417376748535091478, guid: 39edcd8be459bd145964932f98dc0eb4, type: 3}
+  followingFactoryPrefab: {fileID: 5475829533516984089, guid: ef3b702fa2b09b8409e4721d287bc24a, type: 3}
+  build:
+  - factoryCost: 300
+    factorySale: 300
